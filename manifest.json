@@ -1,3 +1,237 @@
 {
-  "version": 1
+  "version": 1,
+
+  "exams": [
+    {
+      "subject": "biology",
+      "years": [
+        {
+          "year": "2007",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/biology/2007.csv"
+        },
+        {
+          "year": "2008",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/biology/2008.csv"
+        },
+        {
+          "year": "2009",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/biology/2009.csv"
+        },
+        {
+          "year": "2010",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/biology/2010.csv"
+        },
+        {
+          "year": "2011",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/biology/2011.csv"
+        },
+        {
+          "year": "2015",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/biology/2015.csv"
+        },
+        {
+          "year": "2016_first_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/biology/2016 first round.csv"
+        },
+        {
+          "year": "2016_second_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/biology/2016 second round.csv"
+        },
+        {
+          "year": "2017_first_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/biology/2017 first round.csv"
+        },
+        {
+          "year": "2017_second_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/biology/2017 second round.csv"
+        },
+        {
+          "year": "2018",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/biology/2018.csv"
+        }
+      ]
+    },
+
+    {
+      "subject": "chemistry",
+      "years": [
+        {
+          "year": "2007",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/chemistry/2007.csv"
+        },
+        {
+          "year": "2008",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/chemistry/2008.csv"
+        },
+        {
+          "year": "2009",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/chemistry/2009.csv"
+        },
+        {
+          "year": "2010",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/chemistry/2010.csv"
+        },
+        {
+          "year": "2011",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/chemistry/2011.csv"
+        },
+        {
+          "year": "2015",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/chemistry/2015.csv"
+        },
+        {
+          "year": "2016_first_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/chemistry/2016 first round.csv"
+        },
+        {
+          "year": "2016_second_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/chemistry/2016 second round.csv"
+        },
+        {
+          "year": "2017_first_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/chemistry/2017 first round.csv"
+        },
+        {
+          "year": "2017_second_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/chemistry/2017 second round.csv"
+        },
+        {
+          "year": "2018",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/chemistry/2018.csv"
+        }
+      ]
+    },
+
+    {
+      "subject": "civics",
+      "years": [
+        {
+          "year": "2007",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/civics/2007.csv"
+        },
+        {
+          "year": "2008",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/civics/2008.csv"
+        },
+        {
+          "year": "2009",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/civics/2009.csv"
+        },
+        {
+          "year": "2010",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/civics/2010.csv"
+        },
+        {
+          "year": "2011",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/civics/2011.csv"
+        },
+        {
+          "year": "2015",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/civics/2015.csv"
+        },
+        {
+          "year": "2016_first_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/civics/2016 first round.csv"
+        },
+        {
+          "year": "2016_second_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/civics/2016 second round.csv"
+        },
+        {
+          "year": "2017_first_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/civics/2017 first round.csv"
+        },
+        {
+          "year": "2017_second_round",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/civics/2017 second round.csv"
+        },
+        {
+          "year": "2018",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/exams/civics/2018.csv"
+        }
+      ]
+    }
+
+    /* SAME STRUCTURE REPEATS FOR:
+       english, maths, physics, social studies, tigrigna
+    */
+  ],
+
+  "notes": [
+    {
+      "grade": "7",
+      "subjects": [
+        {
+          "subject": "biology",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade7/biology.csv"
+        },
+        {
+          "subject": "chemistry",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade7/chemistry.csv"
+        },
+        {
+          "subject": "civics",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade7/civics.csv"
+        },
+        {
+          "subject": "english",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade7/english.csv"
+        },
+        {
+          "subject": "maths",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade7/maths.csv"
+        },
+        {
+          "subject": "physics",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade7/physics.csv"
+        },
+        {
+          "subject": "social studies",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade7/social studies.csv"
+        },
+        {
+          "subject": "tigrigna",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade7/tigrigna.csv"
+        }
+      ]
+    },
+
+    {
+      "grade": "8",
+      "subjects": [
+        {
+          "subject": "biology",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade8/biology.csv"
+        },
+        {
+          "subject": "chemistry",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade8/chemistry.csv"
+        },
+        {
+          "subject": "civics",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade8/civics.csv"
+        },
+        {
+          "subject": "english",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade8/english.csv"
+        },
+        {
+          "subject": "maths",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade8/maths.csv"
+        },
+        {
+          "subject": "physics",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade8/physics.csv"
+        },
+        {
+          "subject": "social studies",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade8/social studies.csv"
+        },
+        {
+          "subject": "tigrigna",
+          "url": "https://raw.githubusercontent.com/itzshewit/grade8-content/main/notes/grade8/tigrigna.csv"
+        }
+      ]
+    }
+  ]
 }
